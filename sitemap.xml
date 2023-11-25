@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nezas.github.io/</loc>
-    <lastmod>2023-11-25T21:47:25+02:00</lastmod>
+    <loc>https://nezas.github.io/posts/media/</loc>
+    <lastmod>2023-11-25T22:26:38+02:00</lastmod>
   </url><url>
-    <loc>https://nezas.github.io/posts/main/</loc>
-    <lastmod>2023-11-25T21:47:25+02:00</lastmod>
+    <loc>https://nezas.github.io/</loc>
+    <lastmod>2023-11-25T22:26:38+02:00</lastmod>
   </url><url>
     <loc>https://nezas.github.io/posts/</loc>
+    <lastmod>2023-11-25T22:26:38+02:00</lastmod>
+  </url><url>
+    <loc>https://nezas.github.io/posts/main/</loc>
     <lastmod>2023-11-25T21:47:25+02:00</lastmod>
   </url><url>
     <loc>https://nezas.github.io/categories/</loc>

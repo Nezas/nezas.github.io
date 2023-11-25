@@ -9,10 +9,30 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Nov 2023 21:47:25 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 25 Nov 2023 22:26:38 +0200</lastBuildDate>
     
 	<atom:link href="https://nezas.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Media</title>
+      <link>https://nezas.github.io/posts/media/</link>
+      <pubDate>Sat, 25 Nov 2023 22:26:38 +0200</pubDate>
+      
+      <guid>https://nezas.github.io/posts/media/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Labas 
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>Nedo puslapis</title>
